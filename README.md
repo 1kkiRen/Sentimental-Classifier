@@ -1,4 +1,4 @@
-Code to precict the tone of reviews.
+Code to predict the tone of reviews.
 
 Used libraries and technologies:
 - pandas
